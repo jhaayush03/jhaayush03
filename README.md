@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ayush Jha
-- 👀 I’m interested in Open source project
-- 🌱 I’m currently learning frontend web development
-- advanced knowledge of HTML & CSS
+- 👋 Hi, I’m Ayush Jha.
+- 👀 I’m a Freelancer.
+- 🌱 fully responsive websites.
+- 💻Html5, Css3, JS, & React
 - 💞️ I’m looking to collaborate on Git hub
 - 📫 How to reach me @jhaayush557@gmail.com
 
